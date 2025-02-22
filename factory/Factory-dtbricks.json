@@ -1,0 +1,9 @@
+{
+	"name": "Factory-dtbricks",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "278c5afd-db0f-4b5c-8146-f8da81db1d21",
+		"tenantId": "970539a4-9052-405b-8eee-1f8f9d065690"
+	}
+}
